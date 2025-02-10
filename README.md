@@ -25,3 +25,10 @@ Ultimately, a comparative analysis was performed to identify the best-performing
 
 Performance metrics are critical in sentiment analysis as they quantify the model’s ability to classify objects into the correct sentiment categories. Metrics such as F1 score and recall help in assessing model reliability, particularly in scenarios where misclassification can lead to significant financial implications. By leveraging these metrics, businesses and financial analysts can make data-driven decisions with confidence, ensuring the most accurate sentiment classification possible. Ultimately, the ability to evaluate and compare multiple models allows for the selection of the most robust approach, enhancing the effectiveness of sentiment analysis in financial applications.
 
+![Image](https://github.com/user-attachments/assets/80866fc8-b867-4b71-a65e-66ac00ca0366)
+
+![Image](https://github.com/user-attachments/assets/f8814962-5b03-4679-b5b7-0de9c524bce7)
+
+![Image](https://github.com/user-attachments/assets/47ec76ff-8895-4d88-9fc6-ac6e66bb4a2a)
+
+![Image](https://github.com/user-attachments/assets/8a1d1136-ade1-4b55-a032-b3c476f76d81)
